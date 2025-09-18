@@ -1,0 +1,25 @@
+My Name: Kyan Chase
+Peer's Name: Charlie Gottfried
+Homework 2 Questions 3 and 4 Peer Review
+9/18/2025
+
+3. 
+    Code Readability: 5
+        The code is clearly organized into functions with logical flow and consistent 
+        formatting.
+    Correctness: 5
+        The implementation correctly performs Vigenère encryption and decryption.
+    Written or oral explanation and efficiency: 5
+        The algorithm operates in linear time relative to input size and uses modular 
+        arithmetic effectively.
+4. 
+    Code Readability: 5
+        The code is neatly structured with clear function separation, descriptive names, 
+        and helpful comments that make it easy to follow the logic.
+    Correctness: 5
+        The implementation correctly computes the Index of Coincidence and generates the 
+        most likely Vigenère keyword with accurate statistical methods.
+    Written or oral explanation and efficiency: 5
+        The program efficiently processes text using linear-time loops, leverages modular 
+        arithmetic, and avoids unnecessary recomputation, ensuring smooth performance 
+        even with longer inputs.
